@@ -1,0 +1,13 @@
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/bin/Debug/netcoreapp3.1/December3.deps.json
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/bin/Debug/netcoreapp3.1/December3.runtimeconfig.json
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/bin/Debug/netcoreapp3.1/December3.runtimeconfig.dev.json
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/bin/Debug/netcoreapp3.1/December3.dll
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/bin/Debug/netcoreapp3.1/December3.pdb
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/obj/Debug/netcoreapp3.1/December3.csprojAssemblyReference.cache
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/obj/Debug/netcoreapp3.1/December3.AssemblyInfoInputs.cache
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/obj/Debug/netcoreapp3.1/December3.AssemblyInfo.cs
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/obj/Debug/netcoreapp3.1/December3.csproj.CoreCompileInputs.cache
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/obj/Debug/netcoreapp3.1/December3.dll
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/obj/Debug/netcoreapp3.1/December3.pdb
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/obj/Debug/netcoreapp3.1/December3.genruntimeconfig.cache
+/Users/dyberg/RiderProjects/CodeOfAdvent2022/December3/bin/Debug/netcoreapp3.1/input.txt
